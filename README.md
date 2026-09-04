@@ -17,6 +17,10 @@ VB.NET class library (`Remoting.Common`) for a remote-execution setup. `Server` 
 
 Open `RunRemote.sln` in Visual Studio 2008 or later. The project references `ICSharpCode.SharpZipLib` (HintPath was `C:\Windows\System32\ICSharpCode.SharpZipLib.dll`).
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 2.0
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `RunRemote`). Assembly copyright 2007. SharpZipLib is by Mike Krueger (see `THIRD_PARTY_NOTICES.md`). SponsorshipManager notes MSDN Magazine / thinktecture remoting articles.
