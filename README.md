@@ -1,6 +1,6 @@
 # RunRemote
 
-VB.NET class library (`Remoting.Common`) for a remote-execution setup. `Server` is a MarshalByRefObject that serves assemblies over .NET Remoting (with SharpZipLib zip payloads), `SponsorshipManager` keeps remoting leases alive, and `Win32` wraps service create/delete PInvoke. Comments say ExecRemote and ServiceOnRemoteMachine consume this library; those hosts are not in this OneDrive folder. Command-line switch parsing lives under CommandLineArguments.
+VB.NET class library (`Remoting.Common`) for a remote-execution setup. `Server` is a MarshalByRefObject that serves assemblies over .NET Remoting (with SharpZipLib zip payloads), `SponsorshipManager` keeps remoting leases alive, and `Win32` wraps service create/delete PInvoke. Comments say ExecRemote and ServiceOnRemoteMachine consume this library; those hosts are not in this folder. Command-line switch parsing lives under CommandLineArguments.
 
 **Source last updated:** 2007-12-25  
 **Language:** VB.NET  
@@ -25,7 +25,7 @@ Open `RunRemote.sln` in Visual Studio 2008 or later. The project references `ICS
 
 Working copy from my Historical Dev folder.
 
-From Dave Robinson's Historical Dev archive (OneDrive folder `RunRemote`). Assembly copyright 2007. SharpZipLib is by Mike Krueger (see `THIRD_PARTY_NOTICES.md`). SponsorshipManager notes MSDN Magazine / thinktecture remoting articles.
+From my Historical Dev archive (folder `RunRemote`). Assembly copyright 2007. SharpZipLib is by Mike Krueger (see `THIRD_PARTY_NOTICES.md`). SponsorshipManager notes MSDN Magazine / thinktecture remoting articles.
 
 ## License
 
